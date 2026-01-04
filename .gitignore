@@ -1,0 +1,17 @@
+# Gereksiz Notebooklar
+notebook.ipynb
+notebook2.ipynb
+
+# Sistem ve Kutuphane Klasorleri
+.gradio/
+catboost_info/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sanal Ortam (Varsa)
+venv/
+env/
+.env
+
+*.csv
